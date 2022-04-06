@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rinfra90
 - 👀 I’m interested in develop new softwares
 - 🌱 I’m currently learning Angular and Python
-- 💞️ I’m looking to collaborate on everything about software development
+- 💞️ I’m looking to learn and collaborate on everything about software development
 - 📫 How to reach me: https://www.linkedin.com/in/rinfra90/
 
 <!---
